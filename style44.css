@@ -1,0 +1,263 @@
+
+header{
+    background-color: rgb(247, 245, 240);
+    height: 40px;    
+}
+nav{
+    color: deeppink;
+    text-decoration: underline;
+    text-align: center;
+    background-color: black;
+    
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    margin-right: 90px;
+    background-color: black;
+    color: whitesmoke;
+
+}
+.container1{
+    display: flex;
+    height: 100vh;
+    width: 100wh;
+    margin-left: 40px;
+    justify-content: space-between;
+
+
+}
+.image{
+    height: 90%;
+    width: 90%;
+    border-radius: 7px;
+    color: black;
+    background-color: darkred;
+    text-align: center;
+    text-decoration: underline;
+    background-image: url(https://media.istockphoto.com/id/689819118/photo/mountain-road-landscape-with-rocks-sunny-sky-with-clouds-and-beautiful-asphalt-road-in-the.jpg?s=612x612&w=0&k=20&c=LMNv1BTgAuyR5kQ6qnzlPr3Pg-uYBgZk3qGjJybU27s=);
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: flex;
+    height: 80vh;
+    width: 90h;
+    flex-wrap: wrap;
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgQmFMlAfrgcxbJpONjrCtQyw2tcbtJl9nA&s); */
+    justify-content: space-around;
+    gap: 3%;
+    
+
+
+    
+
+
+}
+.child1{
+    border: 2px solid black;
+    height: 50%;
+    width: 20%;
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXf9g-R5RxpLzO38uZTJtH0tRklAD7PFaapw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}.child2{
+    border: 2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://inditales.com/wp-content/uploads/2023/11/kapaleshwar-temple-chennai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}.child3{
+    border: 2px solid black;
+    height: 50%;
+    width: 20%;
+    border-radius: 6px;
+    background-image: url(https://www.goindigo.in/content/dam/s6web/in/en/assets/Destinations/destinations/delhi/del.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}.child4{
+    border: 2px solid black;
+    height: 50%;
+    width: 15%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90zZ2STGmJSnZ513nM7TN-eTHWXCtdv2urw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+
+
+}
+.child5{
+    border: 2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmf4iai3aMfmeJYBfrqNAbZy4mbpGvt2eMVw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+.child6{
+    border:2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiPJPHVbb8PblX-2oYbD5rW7U_DEa3eq2DQ&s);
+    background-size: cover;
+
+
+
+}.child7{
+    border:2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzHnVoEauPOTnhh00N1TJC-eljB6hABtXvg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}.child8{
+    border:2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n2xTpcRjZTLH4cQ7smmjlQwLURwU3nYA4A&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+.child9{
+    border:2px solid black;
+    height: 50%;
+    width: 20%; 
+    border-radius: 6px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Kb7d9qeHOusSzKMTnwiBoVtXURUnGubT4Q&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .child10{
+    border:2px solid black;
+    height: 50%;
+    width: 10%; 
+    border-radius: 6px;
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSC8jZd_t_BY_MURMZMulGV_MzHMf7rGCAA&s); */
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+
+
+
+
+
+.text{
+    margin-top: 120px;
+}
+
+ .text4{
+    margin-top: 120px;
+}.text5{
+    margin-top: 120px;
+}.text6{
+    margin-top: 120px;
+}.text7{
+    margin-top: 120px;
+}.text8{
+    margin-top: 120px;
+}.text9{
+    margin-top: 120px;
+}.text10{
+    margin-top: 120px;
+}.text11{
+    margin-top: 120px;
+}.text12{
+    margin-top: 120px;
+}
+.text13{
+    margin-top: 120px;
+}
+.text14{
+    margin-top: 120px;
+}.text15{
+    margin-top: 120px;
+}
+.heading{
+    margin-top: 420px;
+}
+.tab{
+    border-radius: 7px;
+}
+.box1{
+    height: 10%;
+    width: 20%;
+    background-color: bisque;
+}
+
+.box2{
+    height: 10%;
+    width: 20%;
+    background-color: bisque;
+    float: right;
+    margin-top: 0%;
+}
+
+.child1:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child2:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child3:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child4:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child5:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child6:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child7:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child8:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
+.child9:hover{
+    transform: rotateY(360deg);
+    transition: 2s;
+    
+}
